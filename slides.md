@@ -52,6 +52,27 @@ metadata: "Fresco from the Dura-Europos synagogue, Syria, ca. 3rd c. AD"
 -->
 
 ---
+layout: quote
+---
+
+# “Lines to the divine David,” ca. 10th c.
+Be silent, Orpheus; thy lyre throw aside, O Hermes.\
+The tripod at Delphi hath sunk into oblivion for evermore.\
+For us David doth now play the Spirit's lyre,\
+The hidden things of God's mysteries he revealeth;\
+A multitude of ancient wonders he narrateth;\
+Of the Creator of creation doth he move one to sing.\
+Saving all those men he initiateth, as he writeth his verses,\
+Sinners doth he bring to desire repentance.\
+Among other teachings, to the throng doth he declare the Judge's judgments.\
+The purging, he doth teach, of soulful sinnings.
+
+<!--
+* This poem is commonly attributed to Ioannes Geometres, a Byzantine poet of the 10th century.
+* David is presented as a new Orpheus or Hermes, a replacement for pagan prophetic lyricism.
+-->
+
+---
 layout: gallery-frame
 image: /life_of_david.jpg
 work: Scenes from the Life of David
@@ -108,24 +129,58 @@ layout: quote
 And your house and your kingdom shall be made sure forever before me.
 Your throne shall be established forever.’”
 
-# Psalm 89:29–35
-“I will establish [David’s] offspring forever and his throne as the days of the heavens.
-If his children forsake my law… then I will punish their transgression with the rod and their iniquity with stripes, but I will not remove from him my steadfast love or be false to my faithfulness.
-I will not violate my covenant or alter the word that went forth from my lips.
-Once for all I have sworn by my holiness; I will not lie to David.”
+# 2 Sam 12:7--10
+“Thus says the <sc>Lord</sc>, the God of Israel: I anointed you king over Israel, and I rescued you from the hand of Saul; I gave you your master’s house, and your master’s wives into your bosom, and gave you the house of Israel and of Judah\.\.\.\.
+Why have you despised the word of the <sc>Lord</sc>, to do what is evil in his sight? \.\.\.
+Now therefore the sword shall never depart from your house, for you have despised me, and have taken the wife of Uriah the Hittite to be your wife.”
 
 ---
 layout: quote
 ---
 
-Jer 31:31–34: “The days are coming,” declares the Lord, “when I will make a new covenant with the people of Israel and with the people of Judah.
-It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt... This is the covenant I will make with the people of Israel after that time,” declares the Lord.
-“***I will put my law in their minds and write it on their hearts.***
-I will be their God, and they will be my people.
-***No longer will they teach their neighbor***, or say to one another, ‘Know the Lord,’ because they will all know me, from the least of them to the greatest,” declares the Lord.
-“For I will forgive their wickedness and will remember their sins no more.”
+# Psalm 89:29–35
+“I will establish [David’s] offspring forever and his throne as the days of the heavens.
+If his children forsake my law… then I will punish their transgression..., but I will not remove from him my steadfast love....
+Once for all I have sworn by my holiness; I will not lie to David.”
 
-Jer 33:14–16: “‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah. In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land. In those days Judah will be saved and Jerusalem will live in safety. This is the name by which it will be called: The Lord Our Righteous Savior.’”
+# Jer 33:14–16
+“‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah.
+In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land.’”
+
+# Ezekiel 34:23–24
+“I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd.
+And I, the <sc>Lord</sc>, will be their God, and my servant David shall be prince among them; I, the <sc>Lord</sc>, have spoken.”
+
+<!--
+* The supreme irony of David's consistent association with Israel's restoration is that David's own violence doomed his house to destruction.
+* David's line is perpetually afflicted by violence and conflict, but nevertheless it is David and his line who will apparently bind up the flock of Israel and participate in the nation's restoration after exile.
+-->
+
+---
+layout: quote
+---
+
+# 2 Sam 23:1--5
+Now these are the last words of David:\
+The oracle of David, son of Jesse,\
+&nbsp;&nbsp;&nbsp;&nbsp;the oracle of the man whom God exalted,\
+the anointed of the God of Jacob,\
+&nbsp;&nbsp;&nbsp;&nbsp;the favorite of the Strong One of Israel:\
+The spirit of the <sc>Lord</sc> speaks through me,\
+&nbsp;&nbsp;&nbsp;&nbsp;his word is upon my tongue\.\.\.\.\
+For he has made with me an everlasting covenant,\
+&nbsp;&nbsp;&nbsp;&nbsp;ordered in all things and secure.\
+Will he not cause to prosper\
+&nbsp;&nbsp;&nbsp;&nbsp;all my help and my desire?
+
+---
+layout: quote
+---
+
+# 1 Chron 28:11--19
+Then David gave his son Solomon the plan of the vestibule of the temple, and of its houses, its treasuries, its upper rooms, and its inner chambers, and of the room for the mercy seat;
+and the plan of all that he had \[by the Spirit\]\.\.\.\.
+\[David then said to Solomon,\] “All this, in writing at the <sc>Lord</sc>’s direction, he made clear to me—the plan of all the works.”
 
 ---
 layout: qr-code
