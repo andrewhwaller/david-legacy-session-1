@@ -141,19 +141,22 @@ layout: quote
 # Psalm 89:29–35
 “I will establish [David’s] offspring forever and his throne as the days of the heavens.
 If his children forsake my law… then I will punish their transgression..., but I will not remove from him my steadfast love....
-Once for all I have sworn by my holiness; I will not lie to David.”
+I will not lie to David.”
 
 # Jer 33:14–16
-“‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah.
-In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land.’”
+“In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land.’”
 
 # Ezekiel 34:23–24
-“I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd.
-And I, the <sc>Lord</sc>, will be their God, and my servant David shall be prince among them; I, the <sc>Lord</sc>, have spoken.”
+“I will set up over them one shepherd, my servant David\.\.\.\. he shall feed them and be their shepherd.”
+
+# Amos 9:11
+On that day I will raise up the booth of David that is fallen... and rebuild it as in the days of old.
 
 <!--
 * The supreme irony of David's consistent association with Israel's restoration is that David's own violence doomed his house to destruction.
 * David's line is perpetually afflicted by violence and conflict, but nevertheless it is David and his line who will apparently bind up the flock of Israel and participate in the nation's restoration after exile.
+* Notably, Amos 9:11 acknowledges the decrepit state of the Davidic house; just as God said to David "I will build you a house," he here promises to rebuild that house, here described as a "tent."
+  * This evokes David's protestation that God should not dwell in a tent, but ought to have a *house*.
 -->
 
 ---
@@ -181,6 +184,31 @@ layout: quote
 Then David gave his son Solomon the plan of the vestibule of the temple, and of its houses, its treasuries, its upper rooms, and its inner chambers, and of the room for the mercy seat;
 and the plan of all that he had \[by the Spirit\]\.\.\.\.
 \[David then said to Solomon,\] “All this, in writing at the <sc>Lord</sc>’s direction, he made clear to me—the plan of all the works.”
+
+<!--
+* Many English translations have "all that he had in mind" in v. 12, but I opt for the more prophetically-tinged "by the Spirit" here (MT: ותבנית כל אשר היה ברוח עמו; LXX: ὃ εἶχεν
+ἐν πνεύματι αὐτοῦ).
+  * On this point, see Jürg Hutzli,“David in the Role of a Second Moses – The Revelation of the Temple-Model (Tabnît) in 1 Chronicles 28”, in *Chronicles and the Priestly Literature of the Hebrew Bible*, ed. Jaeyoung Jeon and Louis C. Jonker, *BZAW* 528 (Berlin: De Gruyter, 2021), 325–26.
+-->
+
+---
+layout: quote
+---
+
+# 11Q5 27.1--11: “David's Compositions”
+
+And David, son of Jesse, was wise, and a light like the light of the sun, and learned,\
+and discerning, and perfect in all his paths before God and men. And\
+YHWH gave him a discerning and enlightened spirit. And he wrote psalms:\
+three thousand six hundred; and songs to be sung before the altar over the perpetual\
+offering of every day, for all the days of the year: three hundred\
+and sixty-four; and for the sabbath offerings: fifty-two songs\.\.\.\.\
+All these he spoke through the spirit of prophecy which had been given to him from before the Most High.
+
+<!--
+* This text not only portrays David as a divinely inspired prophet, but also amplifies his lyrical output far beyond the canonical psalms.
+* David becomes the superintendent of the liturgical calendar, providing songs for every day of the year.
+-->
 
 ---
 layout: qr-code
