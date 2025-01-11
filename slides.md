@@ -128,26 +128,6 @@ I will be their God, and they will be my people.
 Jer 33:14–16: “‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah. In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land. In those days Judah will be saved and Jerusalem will live in safety. This is the name by which it will be called: The Lord Our Righteous Savior.’”
 
 ---
-layout: statement
----
-
-# Ezekiel 37
-
----
-layout: gallery-frame
-image: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg
-backgroundSize: contain
-work: The Vision of The Valley of The Dry Bones
-metadata: "Gustave Doré, 1866"
----
-
----
-layout: statement
----
-
-# Ezekiel 37: Israel is in need of *resurrection*.
-
----
 layout: qr-code
 ---
 # QR code for this presentation
