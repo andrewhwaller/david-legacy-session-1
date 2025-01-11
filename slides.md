@@ -1,7 +1,7 @@
 ---
 theme: default
 favicon: /favicon.ico
-background: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg
+background: /dura_king.jpg
 class: text-center
 lineNumbers: false
 info: |
@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Title - Subtitle
+title: Rebuilding the Fallen Tent - Subtitle
 mdc: true
 download: true
 export:
@@ -26,24 +26,78 @@ fonts:
   provider: google
 ---
 
-# Title
+# Rebuilding the Fallen Tent
 
-## Subtitle
-
-<!-- This is only a sample of different slide layouts and does not contain the full content for this lecture. -->
+## Session 1: A Complicated Man
 
 ---
 layout: statement
 ---
 
-# Jesus’s mission of restoration is inextricably bound up with Israel’s destiny.
+# How would you describe David to someone who isn't familiar with the Bible?
 
 ---
-layout: statement
+layout: gallery-frame
+image: /dura_anointing.jpg
+work: Samuel Anoints David
+metadata: "Fresco from the Dura-Europos synagogue, Syria, ca. 3rd c. AD"
 ---
 
-<h1 v-mark="{ color: '#f72f47', type: 'strike-through', strokeWidth: 5 }">What is Israel’s messiah meant to do?</h1>
-<h1 v-click>How will God restore his people?</h1>
+<!--
+* The Dura-Europos synagogue consistutes of of the oldest known examples of Jewish art.
+  * One striking thing about this depiction of David is that he is portrayed as an essentially Greek or Roman figure.
+  * This David takes the form of a beardless Hellenistic youth and is anointed by a toga-wearing Samuel.
+* The depiction in the synagogue is joined by a nearby third century Christian church, which also features depictions of David, notably his battle with Goliath.
+  * For more on this, see [Michael Peppard](https://www.ancientjewreview.com/read/2016/4/18/david-as-warrior-at-dura-europos).
+-->
+
+---
+layout: gallery-frame
+image: /life_of_david.jpg
+work: Scenes from the Life of David
+metadata: "Illumination from the Morgan Picture Bible (Ms. Ludwig I 6, recto), ca. 1250"
+---
+
+---
+layout: gallery-frame
+image: /david_statue.jpg
+work: David
+metadata: "Michelangelo, c. 1501–1504"
+---
+
+<!--
+* This portrayal utilizes the atheletic ideal of the Renaissance-era revival of the *classical* ideal.
+* David is dragged through time into a 16th century appropriation of a 5th century BC Greek ideal.
+* This particular work has become, in turn, an exemplar of that Renaissance appropriation.
+-->
+
+---
+layout: gallery-frame
+image: /david_playing_harp.jpg
+work: King David Playing the Harp
+metadata: "Gerard van Honthorst, 1622"
+---
+
+<!--
+* This representation is notable for David's upward gaze, suggesting divine inspiration for his music.
+-->
+
+---
+layout: gallery-full
+image: /goliath.jpg
+work: The Fall of Goliath
+metadata: "Mizrahi Shah Moshe, 1900"
+---
+
+<!--
+* This work by an Israeli artist features a tiny David beheading a giant, Turkish-coded Goliath while the armored Saul and his soldiers look on.
+-->
+
+---
+layout: gallery-full
+image: /cohen.jpg
+metadata: "“Hallelujah” by Leonard Cohen, 1984"
+---
 
 ---
 layout: quote
