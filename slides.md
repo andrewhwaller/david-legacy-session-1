@@ -196,7 +196,6 @@ layout: quote
 ---
 
 # 11Q5 27.1--11: “David's Compositions”
-
 And David, son of Jesse, was wise, and a light like the light of the sun, and learned,\
 and discerning, and perfect in all his paths before God and men. And\
 YHWH gave him a discerning and enlightened spirit. And he wrote psalms:\
