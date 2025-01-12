@@ -254,7 +254,7 @@ layout: quote
 
 # *Midr. Teh.* 1:2
 The foremost among Prophets—he is Moses... the foremost among kings—he is David\.\.\.\.
-You find that whatever Moses did, David did.
+***You find that whatever Moses did, David did.***
 As Moses led Israel out of Egypt, so David led Israel out of servitude to Goliath\.\.\.\.
 As Moses became king in Israel and in Judah, ... so David became king in Israel and in Judah\.\.\.\.
 As Moses built an altar, so David built an altar.
