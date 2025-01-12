@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Rebuilding the Fallen Tent - Subtitle
+title: Rebuilding the Fallen Tent - Session 1
 mdc: true
 download: true
 export:
@@ -205,10 +205,77 @@ offering of every day, for all the days of the year: three hundred\
 and sixty-four; and for the sabbath offerings: fifty-two songs\.\.\.\.\
 All these he spoke through the spirit of prophecy which had been given to him from before the Most High.
 
+# Josephus, *Antiquities* 6.165--166
+Then, taking the oil, with David looking on, \[Samouel\] smeared it on him and spoke softly in his ear, indicating that God had chosen him to rule as king\.\.\.\.
+The Deity then abandoned Saoul and went over to David.
+Once the divine spirit transferred to him, he began to prophesy.
+A certain suffering beset Saoul and demons caused him to suffocate and choke\.\.\.\.
+
 <!--
-* This text not only portrays David as a divinely inspired prophet, but also amplifies his lyrical output far beyond the canonical psalms.
-* David becomes the superintendent of the liturgical calendar, providing songs for every day of the year.
+* 11Q5 not only portrays David as a divinely inspired prophet, but also amplifies his lyrical output far beyond the canonical psalms.
+  * David becomes the superintendent of the liturgical calendar, providing songs for every day of the year.
+* In Josephus's retelling of the story of David's anointing, David and Saul swap places, with David becoming the recipient of the divine spirit that is associated with kingship.
+  * As a result, David prophesies while Saul is tormented by demons.
 -->
+
+---
+layout: quote
+---
+
+# CD 5.1--6
+And concerning the prince it is said, **Let him not multiply wives to himself** (Deut 17:17).
+But David had not read the sealed book of the Torah which was in the ark (of the Covenant), for it was not opened in Israel since the day of the death of Eleazar and Joshua and the elders who worshipped the Ashtoreth.
+And what was (therein) revealed was hidden away until Zadok arose.
+So the deeds of David were accepted—except for the murder of Uriah—for which God forgave him.
+
+# 4QMMT<sup>c</sup> 25--32
+Remember David, who was a man of the pious ones, [and] he, too, [was] freed from many afflictions and was forgiven.
+
+---
+layout: quote
+---
+
+# Acts 2:29--32
+“Fellow Israelites, I may say to you confidently of our ancestor David that he both died and was buried, and his tomb is with us to this day.
+Since he was a prophet, he knew that God had sworn with an oath to him that he would put one of his descendants on his throne.
+Foreseeing this, David spoke of the resurrection of the Messiah, saying,\
+&nbsp;&nbsp;&nbsp;&nbsp;‘He was not abandoned to Hades,\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nor did his flesh experience corruption.’\
+This Jesus God raised up, and of that all of us are witnesses.
+
+# Acts 4:24--25
+When they heard it, they raised their voices together to God and said, “Sovereign Lord, who made the heaven and the earth, the sea, and everything in them, it is you who said by the Holy Spirit through our ancestor David, your servant:\
+&nbsp;&nbsp;&nbsp;&nbsp;‘Why did the Gentiles rage,\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and the peoples imagine vain things?...’”
+
+---
+layout: quote
+---
+
+# Ruth Rabbah 6:1
+_“At midnight I will rise to give thanks to you because of your righteous judgments” (Ps. 119:62)_: ...
+R. Levi said, “There was a harp suspended above David’s bed, and when midnight came, the north wind would blow upon it, and it made a melody on its own\.\.\.\.
+Now when David would hear the sound, he would get up and study the Torah.
+When the Israelites heard that David was studying the Torah, they would say, ‘If David, King of Israel, is studying the Torah, how much more should we!’
+They immediately got up and studied the Torah.”
+
+<!--
+* Translation taken from Jacob Neusner, *Rabbi David: A Documentary Catalogue*, Studies in Judaism (Lanham, Md.: University Press of America, 2012), 84.
+* While the rabbis don't completely turn David into a rabbinic sage, here he acts as a model of sage-like Torah study for Israel.
+  * Far from not reading the Torah or being ignorant of biblical law, David has a somewhat supernatural alarm clock that enables his disciplined Torah study!
+-->
+
+---
+layout: statement 
+---
+
+# A diversity of Davids!
+
+<!--
+* David
+-->
+
+
 
 ---
 layout: qr-code
