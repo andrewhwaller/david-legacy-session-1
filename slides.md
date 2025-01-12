@@ -252,15 +252,26 @@ When they heard it, they raised their voices together to God and said, “Sovere
 layout: quote
 ---
 
-# Ruth Rabbah 6:1
-_“At midnight I will rise to give thanks to you because of your righteous judgments” (Ps. 119:62)_: ...
+# *Midr. Teh.* 1:2
+The foremost among Prophets—he is Moses... the foremost among kings—he is David\.\.\.\.
+You find that whatever Moses did, David did.
+As Moses led Israel out of Egypt, so David led Israel out of servitude to Goliath\.\.\.\.
+As Moses became king in Israel and in Judah, ... so David became king in Israel and in Judah\.\.\.\.
+As Moses built an altar, so David built an altar.
+As the one brought offerings, so the other brought offerings.
+As Moses gave five books of laws to Israel, so David gave five Books of Psalms to Israel.
+
+# *Ruth Rab.* 6:1
+*“At midnight I will rise to give thanks to you because of your righteous judgments” (Ps. 119:62)*: ...
 R. Levi said, “There was a harp suspended above David’s bed, and when midnight came, the north wind would blow upon it, and it made a melody on its own\.\.\.\.
 Now when David would hear the sound, he would get up and study the Torah.
 When the Israelites heard that David was studying the Torah, they would say, ‘If David, King of Israel, is studying the Torah, how much more should we!’
 They immediately got up and studied the Torah.”
 
 <!--
-* Translation taken from Jacob Neusner, *Rabbi David: A Documentary Catalogue*, Studies in Judaism (Lanham, Md.: University Press of America, 2012), 84.
+* *Midrash Tehillim* translation taken from *The Midrash on Psalms*, trans. William G. Braude, Yale Judaica Series 13 (New
+Haven, Conn.: Yale University Press, 1959).
+* *Ruth Rabbah* translation taken from Jacob Neusner, *Rabbi David: A Documentary Catalogue*, Studies in Judaism (Lanham, Md.: University Press of America, 2012), 84.
 * While the rabbis don't completely turn David into a rabbinic sage, here he acts as a model of sage-like Torah study for Israel.
   * Far from not reading the Torah or being ignorant of biblical law, David has a somewhat supernatural alarm clock that enables his disciplined Torah study!
 -->
