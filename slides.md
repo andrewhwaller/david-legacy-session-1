@@ -289,7 +289,10 @@ Haven, Conn.: Yale University Press, 1959).
 layout: statement 
 ---
 
-# A diversity of Davids!
+# In this class, we will discuss...
+## 1. The portrayal of David in biblical traditions
+## 2. The expansion of David's character in early Jewish literature
+## 3. Jesus as the Davidic Messiah
 
 <!--
 * David
