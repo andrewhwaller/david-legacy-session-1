@@ -253,7 +253,7 @@ layout: quote
 ---
 
 # *Ascension of Isaiah* 11.2
-And I saw a woman of the family of David the prophet whose name (was) Mary, and she (was) a virgin and was betrothed to a man whose name (was) Joseph, a carpenter, and he also (was) of the seed and family of the righteous  3 David of Bethlehem in Judah.
+And I saw a woman of the family of David the prophet whose name was Mary, and she was a virgin and was betrothed to a man whose name was Joseph, a carpenter, and he also was of the seed and family of the righteous David of Bethlehem in Judah.
 
 <!--
 * Typically dated from 80 to 120s.
