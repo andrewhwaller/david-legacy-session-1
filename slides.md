@@ -252,6 +252,17 @@ When they heard it, they raised their voices together to God and said, “Sovere
 layout: quote
 ---
 
+# *Ascension of Isaiah* 11.2
+And I saw a woman of the family of David the prophet whose name (was) Mary, and she (was) a virgin and was betrothed to a man whose name (was) Joseph, a carpenter, and he also (was) of the seed and family of the righteous  3 David of Bethlehem in Judah.
+
+<!--
+* Typically dated from 80 to 120s.
+* Uses the figure of Isaiah as a vehicle for Christianized Jewish prophetic visions.
+-->
+---
+layout: quote
+---
+
 # *Midr. Teh.* 1:2
 The foremost among Prophets—he is Moses... the foremost among kings—he is David\.\.\.\.
 ***You find that whatever Moses did, David did.***
