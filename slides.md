@@ -294,10 +294,6 @@ layout: statement
 ## 2. The expansion of David's character in early Jewish literature
 ## 3. Jesus as the Davidic Messiah
 
-<!--
-* David
--->
-
 ---
 layout: qr-code
 ---
